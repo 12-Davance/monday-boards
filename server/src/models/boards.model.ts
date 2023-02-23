@@ -11,5 +11,5 @@ export const BoardSchema = new Schema({
     required: true,
     _id: false,
   },
-  savedAt: { type: Date, default: Date.now() },
+  savedAt: { type: Date, default: new Date() },
 });
