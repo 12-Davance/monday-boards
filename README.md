@@ -124,4 +124,4 @@ I have made 3 searchable boards with names of:
 
 ## Authors
 
-- **Dawit Derebie** - _Software Engineer_ - [Dawit Derebie](https://www.linkedin.com/feed/) - \*\*
+- **Dawit Derebie** - _Software Engineer_ - [Dawit Derebie](https://www.linkedin.com/in/dawit-derebie/) - \*\*
