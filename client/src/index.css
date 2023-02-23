@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  /*font-family: Poppins, Roboto, Rubik, Noto Kufi Arabic, Noto Sans JP, sans-serif !important;*/
+  font-family: Figtree, Roboto, Rubik, Noto Kufi Arabic, Noto Sans JP, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.flex-basis-25 {
+  flex-basis: 25%;
+}
+
+.flex-basis-50 {
+  flex-basis: 50%;
+}
+
+.flex-basis-75 {
+  flex-basis: 75%;
+}
