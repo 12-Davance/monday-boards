@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const base = process.env.REACT_APP_DEV_URL;
+const base = process.env.REACT_APP_PROD_URL;
 const mondayUrl = process.env.REACT_APP_MONDAY_URL;
 const mondayToken = process.env.REACT_APP_MONDAY_TOKEN;
 

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const base = process.env.REACT_APP_DEV_URL;
+const base = process.env.REACT_APP_PROD_URL;
 
 export const getRecords = async () => {
   return axios.get(`${base}/boards`).then((response) => response.data);

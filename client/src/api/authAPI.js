@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const base = process.env.REACT_APP_DEV_URL;
+const base = process.env.REACT_APP_PROD_URL;
 
 export const login = async (data) => {
   return axios.post(`${base}/login`, data).then((response) => response.data);
